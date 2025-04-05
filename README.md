@@ -1,7 +1,30 @@
+# 🧠 EverSolve
+
+*A lifelong quest to get better at solving hard problems—one commit at a time.*
+
+![intro gif](https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif)  
+*Me vs. Dynamic Programming*
+
+---
+
 ## 🌱 Purpose
 
-EverSolve is my personal journey to master algorithms, problem-solving, and mathematical thinking—one puzzle at a time. 
+EverSolve is my personal dojo for algorithmic growth. It's where I log problems, visualize what confuses me, write notes I’ll actually revisit, and get smarter at solving stuff that makes me go “bruh.”
 
-Built as a full-stack tool, it helps me track my progress, visualize algorithmic concepts I struggle with, and keep my notes and insights in one place. Inspired by a mix of LeetCode grind, math puzzle books, and a desire to grow beyond coding just for work, EverSolve is both dojo and journal.
+> Because job searching is brutal, and LeetCode doesn’t care about your feelings.
 
-This project is a lifelong commitment to staying sharp, curious, and always improving—designed by me, for me (but open for anyone on the same path).
+---
+
+## 🔮 What Will Get Done
+
+- 📈 Tracks my progress solving algorithm challenges
+- 🎨 Visualizes tricky concepts (e.g., recursion trees, heaps)
+- 📝 Centralizes my notes & problem-solving patterns
+- 🧩 Serves up puzzles from books or custom problems
+- 📊 Logs everything to Excel like a true data nerd
+---
+
+## 💬 Final Word
+
+EverSolve is powered by overthinking, mild obsession with graphs, and an undying fear of technical interviews.  
+Built by [@Elisha](https://github.com/elishahosey)
