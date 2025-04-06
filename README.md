@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# 🧠 EverSolve
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+*A lifelong quest to get better at solving hard problems—one commit at a time.*
 
-## Available Scripts
+![intro gif](https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif)  
+*Me vs. Dynamic Programming*
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🌱 Purpose
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+EverSolve is my personal dojo for algorithmic growth. It's where I log problems, visualize what confuses me, write notes I’ll actually revisit, and get smarter at solving stuff that makes me go “bruh.”
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+> Because job searching is brutal, and LeetCode doesn’t care about your feelings.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🔮 What Will Get Done
 
-### `npm run build`
+- 📈 Tracks my progress solving algorithm challenges
+- 🎨 Visualizes tricky concepts (e.g., recursion trees, heaps)
+- 📝 Centralizes my notes & problem-solving patterns
+- 🧩 Serves up puzzles from books or custom problems
+- 📊 Logs everything to Excel like a true data nerd
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 💬 Final Word
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+EverSolve is powered by overthinking, mild obsession with graphs, and an undying fear of technical interviews.  
+Built by [@Elisha](https://github.com/elishahosey)
