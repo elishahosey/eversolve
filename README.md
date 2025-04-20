@@ -24,6 +24,16 @@ EverSolve is my personal dojo for algorithmic growth. It's where I log problems,
 - 📊 Logs everything to Excel like a true data nerd
 ---
 
+## Why We Use MDX for Most Pages
+
+This project uses **MDX (Markdown + JSX)** as the primary format for content such as puzzles, algorithm guides, and notes.
+
+MDX allows us to:
+- Write clean, readable markdown for explanations and documentation
+- **Embed interactive React components** like visualizations, step-by-step animations, and hint toggles
+- Keep content and logic separated while maintaining flexibility
+- Make the learning experience feel more like a coding playground
+
 ## 💬 Final Word
 
 EverSolve is powered by overthinking, mild obsession with graphs, and an undying fear of technical interviews.  
