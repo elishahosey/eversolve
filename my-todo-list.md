@@ -70,6 +70,14 @@ Your personal coding dojo: tracking problems, building visuals, and leveling up 
 - [ ] Integrate code editor for trying problems inside app
 - [ ] Add export option (PDF or markdown bundle)
 - [ ] Consider showcasing hardest solved problems as a portfolio
+- [ ] Create a section for my playground of interest data structures I've learned:
+      - Quadtree
 
 ---
 
+## Playgrounds
+- [ ] Data Structures of Interest:
+  - Quadtree: Brief explanation, interactive example, and application
+
+## Math Related stuff
+[] make a practice area of converting thought to math formula. Why?
